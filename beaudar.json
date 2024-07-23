@@ -1,5 +1,6 @@
 {
   "origins": [
-    "https://www.pioneerpan.cn"
+    "https://www.pioneerpan.cn",
+    "http://localhost:4000"
   ]
 }
